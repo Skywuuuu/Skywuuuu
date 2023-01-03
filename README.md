@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning and Neurosymbolic
 - 🌱 I’m currently learning these two fields.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? My email address is yunze.wu@sjtu.edu.cn.
+- 📫 How to reach me? My email address is 13003913026@163.com
 
 <!---
 Skywuuuu/Skywuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
